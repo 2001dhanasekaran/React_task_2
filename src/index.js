@@ -13,7 +13,7 @@ root.render(
     {<User />}
     <h1>Task 2</h1>
     {<Profile/>}
-    <h1>Tas 3</h1>
+    <h1>Task 3</h1>
     {<Product/>}
   </React.StrictMode>
 );
